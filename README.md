@@ -7,11 +7,13 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/An1k4et/DSA/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/An1k4et/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/An1k4et/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/An1k4et/DSA/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/An1k4et/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
