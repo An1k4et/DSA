@@ -17,6 +17,7 @@ Quesiton that i have solved in Leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/An1k4et/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/An1k4et/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Quesiton that i have solved in Leetcode
 ## Simulation
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/An1k4et/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
@@ -117,6 +119,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
@@ -125,10 +128,15 @@ Quesiton that i have solved in Leetcode
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/An1k4et/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/An1k4et/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
