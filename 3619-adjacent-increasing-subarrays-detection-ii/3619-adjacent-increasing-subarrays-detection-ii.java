@@ -1,21 +1,21 @@
 class Solution {
     public int maxIncreasingSubarrays(List<Integer> nums) {
-        int prevRun = 0;
-        int currRun = 1;
-
-        int n = nums.size();
+        int prev = 0;
+        int curr = 1;
         int maxLen = 0;
+        int n = nums.size();
+
         for(int i=1;i<n;i++){
-            if(nums.get(i-1) < nums.get(i)){
-                currRun++;
+            if(nums.get(i) > nums.get(i-1)){
+                curr++;
+            } else{ 
+                prev = curr;
+                curr = 1;
             }
-            else{
-                prevRun = currRun;
-                currRun = 1;
-            }
-            maxLen = Math.max(maxLen, currRun/2);
-            maxLen = Math.max(maxLen, Math.min(prevRun, currRun));
+            maxLen = Math.max(maxLen, curr / 2);
+            maxLen = Math.max(maxLen, Math.min(prev, curr));
         }
+
         return maxLen;
     }
 }
