@@ -1,23 +1,20 @@
 class Solution {
-    private int solve(int curr, int k, Set<Integer> unique){
-        for(int i=-k;i<=k;i++){
-            int newElement = curr + i;
-            if(!unique.contains(newElement)) return newElement;
-        }
-        return curr;
-    }
     public int maxDistinctElements(int[] nums, int k) {
-        Set<Integer> unique = new HashSet<>();
+        int prev = Integer.MIN_VALUE;
+        int count = 0;
+
         Arrays.sort(nums);
         for(int num:nums){
-            if(!unique.contains(num)){
-                unique.add(num);
+            int minVal = num - k;
+            if(prev < minVal){
+                prev = minVal;
+                count++;
             }
-            else{
-                int newElement = solve(num, k, unique);
-                unique.add(newElement);
+            else if(prev < num + k){
+                prev = prev + 1;
+                count++;
             }
         }
-        return unique.size();
+        return count;
     }
 }
