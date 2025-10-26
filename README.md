@@ -22,6 +22,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
+| [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/An1k4et/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/An1k4et/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -76,6 +77,7 @@ Quesiton that i have solved in Leetcode
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/An1k4et/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
@@ -88,6 +90,7 @@ Quesiton that i have solved in Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/An1k4et/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -141,4 +144,8 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
