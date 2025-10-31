@@ -32,6 +32,7 @@ Quesiton that i have solved in Leetcode
 | [3242-count-elements-with-maximum-frequency](https://github.com/An1k4et/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/An1k4et/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/An1k4et/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/An1k4et/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/An1k4et/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -102,6 +103,7 @@ Quesiton that i have solved in Leetcode
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/An1k4et/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Quesiton that i have solved in Leetcode
 | [2174-next-greater-numerically-balanced-number](https://github.com/An1k4et/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
