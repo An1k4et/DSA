@@ -16,6 +16,7 @@ Quesiton that i have solved in Leetcode
 | [0125-valid-palindrome](https://github.com/An1k4et/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/An1k4et/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/An1k4et/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -25,6 +26,7 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/An1k4et/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -110,6 +112,7 @@ Quesiton that i have solved in Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -132,6 +135,7 @@ Quesiton that i have solved in Leetcode
 ## Greedy
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/An1k4et/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Math
