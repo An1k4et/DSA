@@ -36,6 +36,7 @@ Quesiton that i have solved in Leetcode
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/An1k4et/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/An1k4et/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/An1k4et/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -71,6 +72,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -111,6 +113,7 @@ Quesiton that i have solved in Leetcode
 | [3242-count-elements-with-maximum-frequency](https://github.com/An1k4et/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -164,6 +167,7 @@ Quesiton that i have solved in Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/An1k4et/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/An1k4et/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
