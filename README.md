@@ -45,6 +45,7 @@ Quesiton that i have solved in Leetcode
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/An1k4et/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/An1k4et/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/An1k4et/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/An1k4et/DSA/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -124,6 +125,7 @@ Quesiton that i have solved in Leetcode
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/An1k4et/DSA/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@ Quesiton that i have solved in Leetcode
 | [2618-maximize-the-minimum-powered-city](https://github.com/An1k4et/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/An1k4et/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -216,4 +219,12 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/An1k4et/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
