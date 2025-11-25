@@ -128,6 +128,7 @@ Quesiton that i have solved in Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/An1k4et/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -181,6 +182,7 @@ Quesiton that i have solved in Leetcode
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/An1k4et/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/An1k4et/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
