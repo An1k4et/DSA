@@ -30,6 +30,7 @@ Quesiton that i have solved in Leetcode
 | [1262-greatest-sum-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/An1k4et/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/An1k4et/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -61,6 +62,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/An1k4et/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/An1k4et/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/An1k4et/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -104,6 +106,7 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/An1k4et/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/An1k4et/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/An1k4et/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -180,6 +183,7 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/An1k4et/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/An1k4et/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/An1k4et/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/An1k4et/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
