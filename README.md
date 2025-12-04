@@ -18,6 +18,7 @@ Quesiton that i have solved in Leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/An1k4et/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/An1k4et/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/An1k4et/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -119,6 +120,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/An1k4et/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/An1k4et/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/An1k4et/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/An1k4et/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -262,6 +264,7 @@ Quesiton that i have solved in Leetcode
 ## Stack
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/An1k4et/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/An1k4et/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
