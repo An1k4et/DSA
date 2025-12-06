@@ -48,6 +48,7 @@ Quesiton that i have solved in Leetcode
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/An1k4et/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/An1k4et/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -135,6 +136,7 @@ Quesiton that i have solved in Leetcode
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/An1k4et/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/An1k4et/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/An1k4et/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/An1k4et/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/An1k4et/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -166,6 +168,7 @@ Quesiton that i have solved in Leetcode
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/An1k4et/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
@@ -231,6 +234,7 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/An1k4et/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/An1k4et/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/An1k4et/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/An1k4et/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/An1k4et/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -260,6 +264,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/An1k4et/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -278,4 +283,8 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/An1k4et/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/An1k4et/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/An1k4et/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
