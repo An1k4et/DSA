@@ -204,6 +204,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/An1k4et/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/An1k4et/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/An1k4et/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/An1k4et/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
