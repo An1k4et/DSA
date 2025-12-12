@@ -47,6 +47,7 @@ Quesiton that i have solved in Leetcode
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/An1k4et/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/An1k4et/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/An1k4et/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/An1k4et/DSA/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/An1k4et/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -117,6 +118,7 @@ Quesiton that i have solved in Leetcode
 | [2141-maximum-running-time-of-n-computers](https://github.com/An1k4et/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/An1k4et/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/An1k4et/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3433-count-mentions-per-user](https://github.com/An1k4et/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/An1k4et/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/An1k4et/DSA/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/An1k4et/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -130,6 +132,7 @@ Quesiton that i have solved in Leetcode
 | [2274-keep-multiplying-found-values-by-two](https://github.com/An1k4et/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/An1k4et/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/An1k4et/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3433-count-mentions-per-user](https://github.com/An1k4et/DSA/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/An1k4et/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/An1k4et/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
@@ -221,6 +224,7 @@ Quesiton that i have solved in Leetcode
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/An1k4et/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/An1k4et/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/An1k4et/DSA/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/An1k4et/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/An1k4et/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/An1k4et/DSA/tree/master/3623-count-number-of-trapezoids-i) |
