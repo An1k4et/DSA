@@ -15,6 +15,7 @@ Quesiton that i have solved in Leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/An1k4et/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/An1k4et/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/An1k4et/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/An1k4et/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -30,6 +31,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
+| [0944-delete-columns-to-make-sorted](https://github.com/An1k4et/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/An1k4et/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
