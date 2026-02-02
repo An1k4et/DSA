@@ -31,6 +31,7 @@ Quesiton that i have solved in Leetcode
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/An1k4et/DSA/tree/master/0485-max-consecutive-ones) |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
 | [0944-delete-columns-to-make-sorted](https://github.com/An1k4et/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/An1k4et/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
