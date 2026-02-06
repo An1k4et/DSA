@@ -32,6 +32,7 @@ Quesiton that i have solved in Leetcode
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/An1k4et/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/An1k4et/DSA/tree/master/0645-set-mismatch) |
 | [0794-swim-in-rising-water](https://github.com/An1k4et/DSA/tree/master/0794-swim-in-rising-water) |
 | [0944-delete-columns-to-make-sorted](https://github.com/An1k4et/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/An1k4et/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -135,6 +136,7 @@ Quesiton that i have solved in Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/An1k4et/DSA/tree/master/0645-set-mismatch) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/An1k4et/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2092-find-all-people-with-secret](https://github.com/An1k4et/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -178,6 +180,7 @@ Quesiton that i have solved in Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/An1k4et/DSA/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/An1k4et/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/An1k4et/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/An1k4et/DSA/tree/master/2169-simple-bank-system) |
@@ -224,6 +227,7 @@ Quesiton that i have solved in Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/An1k4et/DSA/tree/master/0645-set-mismatch) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/An1k4et/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/An1k4et/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/An1k4et/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
